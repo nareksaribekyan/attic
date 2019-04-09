@@ -1,1 +1,1 @@
-# Draft ideas, usefull routines, archive and coding practice
+# Archive of draft ideas, usefull routines and coding practice
